@@ -1,2 +1,2 @@
 # GitTest
-This is for testing git
+I uploaded a file to the github server correctly!
